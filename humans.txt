@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Eric Turcotte
 
 # TECHNOLOGY COLOPHON
 
