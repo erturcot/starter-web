@@ -10,6 +10,7 @@ Sample website with plenty of files for demos.  We have purpose.
 This is a simple Web app.
 
 ## How to contribute
+Please for...
 
 ### Copyright 
 Primergo 2020
