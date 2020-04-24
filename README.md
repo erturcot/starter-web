@@ -14,4 +14,4 @@ This is a simple Web app.
 Please for...
 
 ### Copyright 
-Primergo 2020
+Primergo 2020 inc.  All rights reserved.
